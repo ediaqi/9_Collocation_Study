@@ -15,6 +15,9 @@ The project involves collecting and analyzing data from multiple sensors placed 
 - **Visualization and Analysis**:
   - [`graphs.ipynb`](graphs.ipynb): Jupyter notebook for visualizing sensor data across different experiments and comparing readings from various sensors
 
+- **Usage example**:
+  - ['People_detection.ipynb'](People_detection.ipynb): Jupyter notebook with example of dataset usage
+
 - **Experiment Documentation**:
   - [`experiments.json`](experiments.json): JSON file containing the timing information for all experiments conducted during the study
 
